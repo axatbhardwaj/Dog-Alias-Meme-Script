@@ -1,4 +1,1 @@
-#sudo alias nano="dog"
-#!/bin/bash
-alias nano="dog" ;
-funcsave dog; 
+sudo alias nano="dog"
