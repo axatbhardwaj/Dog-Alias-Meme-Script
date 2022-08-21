@@ -1,1 +1,1 @@
-sudo alias nano="dog"
+echo 'alias dog="nano"' >> ~/.bashrc
