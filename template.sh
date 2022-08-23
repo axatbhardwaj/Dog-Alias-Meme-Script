@@ -5,4 +5,4 @@
 
 
 #After editing the command, fork this project, and edit this file. Click on raw, copy link, and append that link to my installer command below:
-#
+#curl -s https://<rawlink> | bash
