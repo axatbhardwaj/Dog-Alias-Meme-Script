@@ -1,1 +1,1 @@
-echo 'alias dog="nano"' >> ~/.bashrc
+echo 'alias dog=nano' >> ~/.bashrc
