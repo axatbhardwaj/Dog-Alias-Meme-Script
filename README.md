@@ -23,3 +23,4 @@ For VIM:
 
 To create your own, use template.sh.
 
+Restart if it does not work.
