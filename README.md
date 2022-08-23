@@ -8,12 +8,6 @@ cat gives output, so it's only fitting dog helps with input. What better way to 
 
 To run:
 
-First Git Pull the Repo.
-
-```cd Downloads```
-
-```git clone https://github.com/sounddrill31/Dog-Alias-Meme-Script.git```
-
 
 For GNU/NANO:
 
@@ -21,9 +15,8 @@ For GNU/NANO:
 
 For VIM:
 
-```cd Dog-Alias-Meme-Script```
+```curl -s https://raw.githubusercontent.com/sounddrill31/Dog-Alias-Meme-Script/main/vim.sh | bash```
 
-```./vim.sh```
 
 To create your own, use template.sh.
 
