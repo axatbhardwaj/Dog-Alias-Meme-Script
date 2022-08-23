@@ -1,4 +1,4 @@
-WIP
+
 # Dog-Alias-Meme-Script
 Basically renames your favorite text editor as dog(kinda like cat, but input.)
 Inspiration: https://www.reddit.com/r/linuxmemes/comments/u7xk1q/doggo_wants_an_explaination/
