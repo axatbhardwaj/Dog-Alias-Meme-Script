@@ -17,7 +17,7 @@ First Git Pull the Repo.
 
 For GNU/NANO:
 
-```source <(curl -s https://raw.githubusercontent.com/sounddrill31/Dog-Alias-Meme-Script/main/nano.sh)```
+```curl -s https://raw.githubusercontent.com/sounddrill31/Dog-Alias-Meme-Script/main/nano.sh | bash```
 
 For VIM:
 
