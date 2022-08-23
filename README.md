@@ -12,7 +12,7 @@ First Git Pull the Repo.
 
 ```cd Downloads```
 
-```git pull https://github.com/sounddrill31/Dog-Alias-Meme-Script.git```
+```git clone https://github.com/sounddrill31/Dog-Alias-Meme-Script.git```
 
 
 For GNU/NANO:
